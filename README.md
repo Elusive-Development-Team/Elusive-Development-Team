@@ -1,4 +1,4 @@
-### This is where code we want public is hosted
+### This is where code and or info we want public is hosted
 - 📫 How to reach me: contact@elusivedev.com	
 - ⚡ Fun fact: We released the <a href="http://elusivedev.com/moderatorbot/">Moderator bot</a> on 08/31/2020
 <!--
