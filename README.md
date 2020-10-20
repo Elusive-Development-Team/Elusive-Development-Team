@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### This is where code we want public is hosted
+- 📫 How to reach me: contact@elusivedev.com	
+- ⚡ Fun fact: We released the <a href="http://elusivedev.com/moderatorbot/">Moderator bot</a> on 08/31/2020
 <!--
 **Elusive-Development-Team/Elusive-Development-Team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
